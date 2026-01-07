@@ -5,9 +5,10 @@
 Odessey is a high-fidelity front-end interface designed to demonstrate the power of strict grid systems and typographic hierarchy in modern web development. This project replicates a premium editorial layout often found in high-end architectural and educational portfolios.
 
 The core objective of Odessey is to present diverse content types—textual testimonials, ambient video media, and statistical data—within a unified, geometrically balanced framework. It prioritizes readability, visual weight distribution, and responsive adaptability without relying on heavy external frameworks or JavaScript libraries.
+
 <img width="1920" height="1502" alt="odessey" src="https://github.com/user-attachments/assets/80b6a035-0372-463e-bb95-c98ea8f04698" />
 
-## Live Demonstration
+## Live Deployment
 
 [Preview Live Demo](https://www.google.com/search?q=https://lefajmofokeng.github.io/Odessey)
 
