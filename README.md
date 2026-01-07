@@ -10,7 +10,7 @@ The core objective of Odessey is to present diverse content types—textual test
 
 ## Live Deployment
 
-[Preview Live Demo](https://www.google.com/search?q=https://lefajmofokeng.github.io/Odessey)
+[Preview Live Demo](https://lefajmofokeng.github.io/Odessey)
 
 ## Design Philosophy
 
